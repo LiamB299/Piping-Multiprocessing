@@ -1,0 +1,9 @@
+FrontDoor,Closed,1532700000
+LivingLight,Off,1532700000
+LivingTemp,19,1532700000
+LivingTemp,18.5,1532703600
+FrontDoor,Open,1532707200
+LivingTemp,18,1532707200
+LivingLight,On,1532707203
+FrontDoor,Closed,1532707205
+LivingTemp,18.1,1532710800
